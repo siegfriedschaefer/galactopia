@@ -1,0 +1,14 @@
+---
+title: "About"
+format:
+  html:
+    code-fold: true
+---
+Projekt Galactopia ist ein Metaverse-Projekt, das die Grenzen der Web3- und generativen KI- Technologien auslotet. Es ist eine fortlaufende Science-Fiction Romanserie, die mit generativer AI und einem Dapp versucht Menschen zu begeistern am Projekt teilzuhaben.
+
+Das Projekt ist ein lebendiges Anschauungsobjekt, das ständig weiterentwickelt wird. Es wird einiges ausprobiert, und es ist nicht ausgeschlossen, dass nicht alles fertiggestellt wird. Doch das ist auch nicht das Ziel. Galactopia ist ein "Work In Progress" (WIP), das aus der Lust am Tun entsteht.
+
+Ich bin davon überzeugt, dass Galactopia das Potenzial hat, Menschen zu motivieren, sich aktiv und humanistisch an der Gestaltung der Zukunft zu beteiligen. Ich möchte mit diesem Projekt zeigen, dass KI und Web3 ein mächtiges Werkzeug sind, um eine Realität zu erschaffen, in welcher wir alle in Frieden und im Einklang mit uns und der Welt leben können.
+
+
+

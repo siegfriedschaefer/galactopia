@@ -1,0 +1,39 @@
+project:
+  type: website
+
+website:
+  title: "Projekt Galactopia - Ein Metaverse für eine bessere Zukunft"
+  favicon: "./favicon_192x192.png"
+  navbar:
+    right:
+      - novels.qmd
+      - blog.qmd
+      - about.qmd
+  sidebar:
+    contents:
+      - section: "Galactopia"
+        contents:
+          - href: index.qmd
+      - section: "Werkstatt"
+        contents:
+          - href: plot_general.qmd
+          - href: main_persons.qmd
+
+  page-navigation: true
+
+  page-footer:
+    center: "(c) Galactopia, 2023"
+    right:
+      - icon: youtube
+        href: https://www.youtube.com/channel/UCo4BndqR2VFkbWO1kNr5j6A
+      - icon: github
+        href: https://github.com/siegfriedschaefer/galactopia
+      - icon: twitter
+        href: https://twitter.com/siggis13
+      
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
