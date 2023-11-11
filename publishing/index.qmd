@@ -1,0 +1,26 @@
+---
+title: "Galactopia - Aufbruch in das Unbekannte"
+format:
+  html:
+    code-fold: true
+    code-block-bg: true
+    code-block-border-left: true
+    code-line-numbers: true
+    code-copy: hover
+    highlight-style: arrow
+---
+![Created by Leonardo.ai](./media/galactopia_intro.jpg){fig-align="left"}
+
+## Willkommen im Galactopia Metaverse!
+
+Begleite mich auf meiner Reise zu unendlichen Realitäten.
+Dieses Projekt lotet die neuen Möglichkeiten von Generative AI und Web3 aus um Erfahrungen anhand eines realen Anwendungsfalles zu sammeln und diese einem geneigten Publikum Schritt für Schritt nahe zu bringen.
+
+Galactopia ist eine Science Fiction Romanreihe die sich mit unserer Zukunft beschäftigt und auf einer optimistischen, humanistischen, von Technologie getriebene Grundstimmung basiert.   
+
+Alle Inhalte werden/wurden unter Zuhilfenahme von den unterschiedlichsten AI Werkzeugen (Google Bard, OpenAI's chatGPT, Leonardo.AI) generiert und der Entstehungsprozess wird durch Blogbeiträge dokumentiert und steht in Form von einem Github Repository zur weiteren Verwendung allgemein zur Verfügung.
+
+Das Projekt wird sich mit der Zeit verändern und ich lade Euch ein mit mir zusammen dieses Projekt mit Leben zu füllen.
+
+
+

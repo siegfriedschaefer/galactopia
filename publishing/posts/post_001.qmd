@@ -1,0 +1,88 @@
+---
+title: "Ideenfindung für einen passenden Slogan"
+description: "Google Bard Prompting"
+author: "SiggiS"
+date: "11/10/2023"
+image: ./images/post_001.jpg
+categories:
+    - Prompt
+format:
+        html:
+            code-fold: true
+---
+
+![Created by Leonardo.ai](./images/post_001.jpg){width=40% fig-align="left"}
+
+## Wie findet man einen passenden Slogan für Projekt Galactopia?
+
+Jedes Projekt braucht einen passenden Slogan. 
+
+Er sollte kurz, interessant und prägnant sein. Das Wesen des Projektes muss dem Interessenten sofort in die Gehirnrinde gebrannt werden.
+
+Leider bin ich kein besonders kreativer Mensch. Die Slogans, die mir einfallen degenerieren immer zu einer umständlichen Erläuterung der hehren Ziele des Projektes.
+
+**Also fragen wir doch einfach einmal Bard um Hilfe:**
+
+***Prompt:***
+*Formuliere folgenden Satz in ein interessantes Statement um:
+Projekt Galactopia ist der reale Versuch Web3 und Generative AI
+so anzuwenden, dass Menschen wieder optimistisch in die Zukunft
+blicken und versuchen diese Zukunft tatkraeftig und humanistisch
+mitzugestalten.*
+
+***1. Antwort:***
+*Projekt Galactopia: Die Zukunft, die wir uns wünschen.*
+
+Dieses Statement ist kurz und knackig und vermittelt die Kernaussage des ursprünglichen Satzes auf eine prägnante Weise. Es ist auch positiv und motivierend und lädt die Leser dazu ein, sich mit dem Projekt zu beschäftigen.
+
+***2. Antwort:***
+*Projekt Galactopia: Web3 und Generative AI für eine bessere Zukunft.*
+
+Dieses Statement ist etwas länger, aber es bietet mehr Informationen darüber, wie das Projekt funktioniert. Es betont auch die positiven Auswirkungen des Projekts, nämlich die Förderung von Optimismus und Humanismus.
+
+***3. Antwort:***
+*Projekt Galactopia: Ein neuer Anfang für die Menschheit.*
+
+Dieses Statement ist etwas abstrakter, aber es ist auch sehr visionär. Es suggeriert, dass das Projekt die Möglichkeit hat, die Welt grundlegend zu verändern und eine neue Ära des Optimismus und der Hoffnung einzuläuten.
+
+***4. Antwort:***
+*Projekt Galactopia: Der Weg in eine neue Galaxie des Optimismus.*
+
+Dieses Statement verwendet eine Metapher, um die positive Wirkung des Projekts hervorzuheben. Es suggeriert, dass das Projekt Menschen eine neue Perspektive auf die Welt bietet und ihnen Hoffnung für die Zukunft gibt.
+
+***Okay ...***
+
+Vielleicht habe ich mit meinem Prompt etwas übertrieben.
+
+Versuchen wir es erneut:
+
+***Prompt:***
+*Formuliere folgenden Satz in ein interessantes Statement um:
+Projekt Galactopia ist der Versuch Web3 und Generative AI für
+ein Metaverse Projekt anzuwenden, das eine Romangeschichte, einen
+Dapp und letztendlich eine Community generieren soll die optimistisch in
+die Zukunft blickt und versucht diese tatkraeftig und humanistisch
+mitzugestalten.*
+
+***1. Antwort***
+*Projekt Galactopia: Ein Metaverse für eine bessere Zukunft*
+
+Dieses Statement hebt die folgenden Aspekte hervor:
+
+Die Verwendung von Web3 und Generative AI: Diese Technologien sind beide noch in der Entwicklung, aber sie haben das Potenzial, die Art und Weise, wie wir mit der Welt interagieren, grundlegend zu verändern. Das Projekt Galactopia ist ein Pionierprojekt, das diese Technologien für ein Metaverse-Projekt einsetzt.
+
+Die Schaffung einer optimistischen Community: Das Projekt Galactopia möchte eine Community schaffen, die optimistisch in die Zukunft blickt und versucht, diese tatkräftig und humanistisch mitzugestalten. Dies ist ein wichtiges Ziel, da die Welt vor vielen Herausforderungen steht.
+
+***2. Antwort***
+*Galactopia: Ein Metaverse, das die Welt verändert*
+
+Diese Formulierung ist ähnlich, aber sie ist etwas prägnanter. Sie betont, dass das Projekt Galactopia nicht nur ein neues Metaverse-Erlebnis schaffen will, sondern dass es auch eine positive Wirkung auf die Welt haben will.
+
+Mir gefällt die vorletzte Formulierung am Besten:
+
+### Projekt Galactopia: Ein Metaverse für eine bessere Zukunft ###
+
+
+
+
+

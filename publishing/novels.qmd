@@ -1,0 +1,10 @@
+---
+title: "Roman"
+listing:
+    contents:
+        - "novels/*.qmd"
+    type: grid
+    categories: true
+    sort: 
+        - "date desc"
+---
