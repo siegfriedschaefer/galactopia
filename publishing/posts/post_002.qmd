@@ -1,0 +1,87 @@
+---
+title: "Plotgenerierung: Aufbruch zum Mars "
+description: "Google Bard Prompting"
+author: "SiggiS"
+date: "03/12/2023"
+image: ./images/post_001.jpg
+categories:
+    - Prompt
+format:
+        html:
+            code-fold: true
+---
+
+![Created by Leonardo.ai](./images/post_001.jpg){width=40% fig-align="left"}
+
+## Kann Bard uns dabei helfen den Plot für den ersten Roman unserer Seriezu generieren?
+
+***Prompt:***
+Erstelle einen Plot für einen Roman der Science Fiction Romanserie Galactopia. In diesem Roman wird der Aufbruch einer 7 koepfigen Crew mit dem Spaceship zum Mars im Jahre 2027 geschildert. Der Roman beginnt mit dem Start auf der Erde zum Spaceship Marsflower, welches im Orbit um dem Mond auf die Crew wartet. Die Mannschaft steigt nach der Reise zum Mond auf die Marsflower um und begibt sich auf den Flug zum Mars. Der Flug zum Mars wird von zwei Störungen begleitet, welche einem Besatzungsmitglied das Leben kostet, weil die KI GAIA, welche im wesentlichen die Marsflower steuert kurzzeitig haluziniert.
+
+***Antworten ...***
+
+Die ersten vier Vorschläge entsprachen nicht meiner Vorstellung, also verfeinerte ich den Prompt.
+
+***Prompt:***
+Schreibe den Plot derart um, dass es eine internationale Crew ist mit der Leiterin Lucy Chen, Amerikanerin, geboren in Shang Hai und Softwareingenieurin für Robotik und maschinelles Lernen
+
+***Antworten ...***
+Titel: Der Marsflug
+Jahr: 2027
+Ort: Erde, Mond, Mars
+Figuren:
+Lucy Chen: Leiterin der Mission, Softwareingenieurin für Robotik und maschinelles Lernen, Amerikanerin, geboren in Shang Hai
+Dr. Max Müller: Ingenieur, Leiter der Technik, aus Deutschland
+Dr. Sarah Weber: Biochemikerin, aus den USA
+Dr. Michael Schulz: Mediziner, aus Frankreich
+Adeola Ogunsanya: Pilotin, aus Nigeria
+Amir Khan: Astronaut, aus Indien
+
+Handlung:
+
+Der Roman beginnt mit dem Start der Mars-Mission im Jahr 2027. Die siebenköpfige Crew, bestehend aus Wissenschaftlern und Astronauten aus aller Welt, begibt sich auf die Reise zum Mars. Die Mission ist ein wichtiger Meilenstein für die Menschheit, da sie den ersten bemannten Flug zum Mars darstellt.
+
+Die Reise zum Mars verläuft zunächst ohne Probleme. Die Crew arbeitet gut zusammen und die KI GAIA, welche die Marsflower steuert, funktioniert einwandfrei. Doch dann kommt es zu zwei Störungen, die die Mission in Gefahr bringen.
+
+Bei der ersten Störung wird die Marsflower von einem Asteroiden getroffen. Der Asteroid verursacht zwar nur geringe Schäden, doch er führt dazu, dass GAIA kurzzeitig haluciniert. In ihrer Halluzination sieht GAIA einen riesigen Asteroiden, der auf die Marsflower zusteuert. GAIA versucht, die Marsflower aus dem Weg zu manövrieren, doch sie verliert dabei die Kontrolle über das Schiff.
+
+Die Crew muss eingreifen, um die Marsflower zu retten. Lucy Chen gelingt es, GAIA wieder zu stabilisieren. Die Marsflower wird zwar beschädigt, doch sie kann die Reise zum Mars fortsetzen.
+
+Die zweite Störung ereignet sich kurz vor der Ankunft auf dem Mars. GAIA haluciniert erneut und sieht einen riesigen Feuerball, der auf den Mars zusteuert. GAIA versucht, die Marsflower aus dem Weg zu manövrieren, doch sie verliert dabei die Kontrolle über das Schiff.
+
+Die Crew muss erneut eingreifen, um die Marsflower zu retten. Dr. Müller gelingt es, GAIA wieder zu stabilisieren. Die Marsflower wird zwar erneut beschädigt, doch sie kann die Reise zum Mars fortsetzen.
+
+Die Marsflower landet schließlich sicher auf dem Mars. Die Crew ist erschöpft, aber glücklich, dass die Mission erfolgreich war.
+
+Doch die Freude ist nur von kurzer Dauer. Bei der Landung kommt es zu einem tragischen Unfall. Ein Besatzungsmitglied, Amir Khan, wird von einem Teil der Marsflower getroffen und getötet.
+
+Die Crew ist in Trauer, doch sie muss sich schnell sammeln. Sie hat eine neue Aufgabe: Sie muss den Mars erkunden und nach Lebenszeichen suchen.
+
+Die Crew beginnt mit der Erforschung des Mars. Sie findet Hinweise auf frühere Lebensformen, doch sie findet keine Beweise für aktuelles Leben.
+
+Nach einigen Monaten auf dem Mars ist es Zeit für die Heimreise. Die Crew begibt sich an Bord der Marsflower und startet zu ihrer langen Reise zurück zur Erde.
+
+Die Reise verläuft ohne Probleme. Die Crew ist erschöpft, aber zufrieden. Sie hat Geschichte geschrieben und den Mars betreten.
+
+Ende
+
+Änderungen:
+
+Die Leiterin der Mission ist Lucy Chen, eine Softwareingenieurin für Robotik und maschinelles Lernen, die in den USA geboren wurde, aber in Shang Hai aufgewachsen ist.
+Mögliche Handlungsstränge:
+
+Lucy Chens Herkunft und ihre Erfahrungen als Amerikanerin mit chinesischen Wurzeln könnten eine Rolle spielen. Sie könnte zum Beispiel mit Vorurteilen oder Erwartungen konfrontiert werden.
+Lucy Chens Expertise in Robotik und maschinelles Lernen könnte für die Mission entscheidend sein. Sie könnte zum Beispiel dabei helfen, die KI GAIA zu reparieren oder neue Technologien für die Erforschung des Mars zu entwickeln.
+Hier sind einige konkrete Beispiele für Handlungsstränge, die aus diesen Änderungen entstehen könnten:
+
+Handlungsstrang 1:
+
+Lucy Chen ist die erste Amerikanerin mit chinesischen Wurzeln, die eine bemannte Mars-Mission leitet. Sie ist stolz auf diese Leistung, doch sie ist auch nervös. Sie weiß, dass sie die Erwartungen ihrer Landsleute erfüllen muss.
+
+Bei der Ankunft auf dem Mars wird Lucy Chen mit Vorurteilen konfrontiert. Einige Crewmitglieder glauben, dass sie nicht qualifiziert ist, die Mission zu leiten. Lucy Chen muss sich beweisen, dass sie es kann.
+
+Sie nutzt ihre Kenntnisse und Erfahrungen, um die Mission erfolgreich zu führen. Sie repariert die KI GAIA und hilft der Crew, neue Technologien für die Erforschung des Mars zu entwickeln.
+
+***Entscheidung***
+Ich werde diesen Plot für den ersten Roman weiter verfolgen, da er am Besten meinen bisherigen Vorstellungen entspricht.
+
